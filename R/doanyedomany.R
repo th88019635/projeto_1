@@ -63,3 +63,5 @@ many <- do_many(species_name = unique(sp_input[1]),
                 brt = FALSE,
                 #proj_data_folder = "./dados/raster/proj"
                 equalize = TRUE)
+
+######################################################
